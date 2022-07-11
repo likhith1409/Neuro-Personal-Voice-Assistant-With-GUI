@@ -1,0 +1,36 @@
+1.open notepad
+2.close notepad
+3.open cmd
+4.open camara
+5.ip address
+6.wikipedia
+7.open youtube
+8.google
+9.whatsapp
+10.play song on youtube
+11.play video on youtube
+12.search -- in youtube
+13.tell me a joke
+14.news
+15.who are you
+16.play a game
+17.shut down system
+18.restart the system
+19.sleep the system
+20.switch the window
+21.hidden menu
+22.task manager
+23.take screenshot
+24.snip
+25.instagram profile
+26.hello,hey
+27.how are you
+28.also good,thanks
+29.exit neuro
+30.you can sleep,sleep now
+31.temperature
+32.activate how to do
+33.volume up
+34.volume down
+35.volume mute
+###--->more on the way--->under development
